@@ -1,0 +1,34 @@
+
+body { 
+		background-position:center;
+		background-color:grey;
+		border:2px solid yellow;
+		padding-top:30px;
+		padding-left:20px;
+		padding-right:15px;
+		margin:auto;
+		height:auto;
+		width:900px;
+		}
+	header img{float:left;}
+	button{margin:auto;
+	  background-color:yellow;
+	  }
+
+@media(max-width:900px)
+{body{ 
+		background-position:center;
+		background-color:grey;
+		border:2px solid yellow;
+		padding-top:30px;
+		padding-left:20px;
+		padding-right:15px;
+		margin:auto;
+		height:auto;
+		width:900px;
+		}
+	header img{float:left;}
+	button{margin:auto;
+	  background-color:yellow;
+	  }
+	}
